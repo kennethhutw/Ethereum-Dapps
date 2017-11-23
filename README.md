@@ -2,6 +2,8 @@
 
 There are four Dapps which build on Ethereum blockchain. I deployed the smart contract in all test network - Ropsten, Rinkeby  and Kovan.  
 
+##Don't install anything.  just direcctly open index.html by Chrome or ther browsers. 
+
 Please install [MetaMast] (https://metamask.io/) first
 
 
